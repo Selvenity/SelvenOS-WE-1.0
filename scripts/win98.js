@@ -14,7 +14,7 @@
  * Project properties.
  */
 var Project = {
-	name: "Windows 98 WebSim",
+	name: "SelvenOS WE",
 	Version: {
 		major: 0, minor: 7, revision: 0,
 		get text () {
